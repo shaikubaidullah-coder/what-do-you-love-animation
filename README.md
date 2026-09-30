@@ -4,6 +4,10 @@ A procedural, hand-drawn paper-cutout animation recreation of the viral piece *"
 
 Every single visual element—from the torn paper edges, the notepad, the characters, and the cosmic elements—is drawn frame-by-frame on an HTML5 `<canvas>` using pure JavaScript, paired with a synchronized real-time procedural Web Audio soundtrack.
 
+## 🌐 Live Demos
+- **Netlify**: [https://what-do-you-love-animation.netlify.app/](https://what-do-you-love-animation.netlify.app/)
+- **GitHub Pages**: [https://shaikubaidullah-coder.github.io/what-do-you-love-animation/](https://shaikubaidullah-coder.github.io/what-do-you-love-animation/)
+
 ## ✨ Features
 - **100% Procedural Canvas Rendering**: Zero external image or font files.
 - **Paper Cutout Aesthetic**: Organic torn-paper edges with seeded fractal jitter and soft drop shadows.
